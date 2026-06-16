@@ -270,7 +270,6 @@ B.Tech Biotechnology · NIT Andhra Pradesh · Microsoft PL-300 Certified
 
 - GitHub: [t-sarayu](https://github.com/t-sarayu)
 - LinkedIn: [sarayu-tirumalasetty](https://www.linkedin.com/in/sarayu-tirumalasetty/)
-- Portfolio: [sarayu-tirumalasetty.lovable.app](https://sarayu-tirumalasetty.lovable.app)
 
 ---
 
